@@ -1,6 +1,6 @@
 # Streamlit Data App
 
-![Streamlit Logo](https://github.com/streamlit/streamlit/blob/develop/docs/_static/logo.png)
+![Streamlit Logo](https://www.datacamp.com/teach/repositories/2633/versions/5216/badges)
 
 ## Overview
 
@@ -21,6 +21,7 @@ Begin by installing Streamlit using pip:
 ```bash
 pip install streamlit
 ```
+
 ### Running the App
 
 Run the app locally with the following command:
