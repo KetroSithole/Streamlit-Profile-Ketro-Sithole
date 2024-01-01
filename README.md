@@ -1,6 +1,6 @@
 # Streamlit Data App
 
-![Streamlit Logo](https://www.datacamp.com/teach/repositories/2633/versions/5216/badges)
+
 
 ## Overview
 
