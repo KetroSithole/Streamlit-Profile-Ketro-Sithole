@@ -8,11 +8,9 @@ st.set_page_config(
 
 # Sidebar with user information
 st.sidebar.title("Ketro Sithole")
-st.sidebar.subheader("Data Commons Research Assistant & Business Intelligence Professional")
-st.sidebar.info(
-    "Proven Track Record | Six-time Hackathon Winner | Top 15 South African Young Geeks 2023\n"
-    "1st Place - Final Year IT Project, University of Pretoria"
-)
+st.sidebar.subheader(
+    "Data Commons Research Assistant & Business Intelligence Professional")
+
 
 # Navigation
 menu = ["Home", "Projects", "About"]
