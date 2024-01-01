@@ -72,6 +72,4 @@ Feel free to contribute to the project. Report issues, suggest enhancements, and
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
 
-Customize this template with your specific project details, including the structure, features, and deployment instructions. Feel free to add or modify sections as needed.
